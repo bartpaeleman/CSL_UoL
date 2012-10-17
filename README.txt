@@ -12,6 +12,6 @@ Here is some background and links to pages I have used so far: http://support.me
 
 I also found a very interesting online visual CSL editor: http://steveridout.com/csl/visualEditor/
 
-My current version is attached to my post, for anyone interested to use it. If you extend the code or find errors that can improve this for the benefit of us all, please do share it!
+For anyone interested to use it, if you extend the code or find errors that can improve this for the benefit of us all, please do share it here!
 
 Enjoy...
